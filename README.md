@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 cas0885
-##Professor
+## Professor
 Dr. Jacob Hochstetler
